@@ -2,10 +2,11 @@ body {
   background-color: #ffffff;
 }
 
+
 #header-nav {
  background-color: #bfbfbf;
  border-radius: 0;
- border: 0;
+ border: 10px;
  font-size: 36px;
  font-style: sans-serif;
 }
