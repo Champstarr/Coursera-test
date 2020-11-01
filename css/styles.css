@@ -18,3 +18,10 @@ color: black;
 .navbar-header a:hover, .navbar-header a:focus {
   text-decoration: none;
 }
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+ border: 2px solid black;
+
+
+
+}
